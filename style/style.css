@@ -1,0 +1,365 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.header{
+  height: 700px;
+width: 100%;
+}
+
+
+.body{
+  background: white;
+  
+}
+
+.header__nav{
+  width: 100%;
+height: 100px;
+background: white;
+
+
+}
+
+
+.beka{
+  color: black;
+
+
+position: absolute;
+width: 57px;
+height: 43px;
+left: 856px;
+top: 27px;
+text-decoration: none;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+transition: 500ms;
+}
+.beka:hover{
+  color: orange;
+
+}
+
+.beka-2{
+  position: absolute;
+width: 106px;
+height: 43px;
+left: 882px;
+top: 27px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+text-decoration: none;
+color: #000000;
+transition: 500ms;
+}
+
+
+.beka-2:hover{
+  color: orange;
+}
+
+.beka-3{
+  position: absolute;
+width: 71px;
+height: 43px;
+left: 1021px;
+top: 27px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+text-decoration: none;
+color: #000000;
+transition: 500ms;
+}
+
+
+.beka-3:hover{
+  color: orange;
+}
+
+
+
+.big{
+  color: black;
+  position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+
+
+
+
+}
+.small{
+  position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #21243D;
+}
+
+
+.container{
+  
+}
+
+
+.button{
+  position: absolute;
+width: 167px;
+height: 21px;
+left: 168px;
+top: 486px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+width: 208px;
+height: 47px;
+left: 148px;
+top: 477px;
+text-decoration: none;
+padding-left: 30px;
+padding-top: 10px;
+
+background: #FF6464;
+border-radius: 2px;
+color: #FFFFFF;
+transition: 500ms;
+}
+
+
+.button:hover{
+  background: black;
+ 
+ 
+  color: white;
+}
+
+
+
+.gpg{
+  
+position: absolute;
+width: 243px;
+height: 243px;
+left: 760px;
+top: 210px;
+
+background: url(image.png);
+}
+
+.main{
+  position: absolute;
+width: 1152px;
+height: 900px;
+left: 0px;
+top: 595px;
+width: 100%;
+background: #EDF7FA;
+}
+
+.niga{
+  position: absolute;
+width: 129px;
+height: 60px;
+left: 148px;
+top: 20px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+
+display: flex;
+align-items: flex-end;
+
+color: black;
+
+}
+
+.black{
+  position: absolute;
+width: 246px;
+height: 180px;
+left: 146px;
+top: 100px;
+
+background: url(image.png);
+border-radius: 6px;
+}
+
+.man{
+  position: absolute;
+width: 305px;
+height: 44px;
+left: 410px;
+top: 100px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+
+
+
+color: #21243D;
+
+}
+
+
+.women{
+  position: absolute;
+width: 594px;
+height: 93px;
+left: 410px;
+top: 170px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #21243D;
+}
+
+
+.kris{
+  
+position: absolute;
+width: 246px;
+height: 180px;
+left: 146px;
+top: 314px;
+
+background: url(image.png);
+border-radius: 6px;
+}
+
+
+
+.js{
+  position: absolute;
+  width: 337px;
+  height: 44px;
+  left: 410px;
+  top: 350px;
+  
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  
+  
+  
+  color: #21243D;
+
+}
+.i{
+  position: absolute;
+  width: 594px;
+  height: 93px;
+  left: 410px;
+  top: 419px;
+  
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  
+  
+  color: #21243D;
+  }
+
+  
+  .t{
+    position: absolute;
+width: 246px;
+height: 184px;
+left: 146px;
+top: 550px;
+
+background: url(image.png);
+border-radius: 6px;
+  }
+  
+  .me{
+    position: absolute;
+width: 365px;
+height: 44px;
+left: 410px;
+top: 560px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Dark Color */
+
+color: #21243D;
+  }
+  
+  .you{
+    position: absolute;
+width: 507px;
+height: 93px;
+left: 413px;
+top: 649px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+
+  }
+  
+
